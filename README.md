@@ -1,4 +1,3 @@
-# PRODIGY INFOTECH INTERNSHIP TASK 5 OF WEB DEVELOPMENT
 
 ## Weather App
 
@@ -15,6 +14,3 @@ The Weather App, developed using HTML, CSS, and JavaScript, delivers up-to-date 
 
 3. **JavaScript:**
    - Implements the functionality for retrieving weather data, either from the user's current location or a manually entered city. Utilizes APIs to fetch real-time weather information, and dynamically updates the display to present the data in a user-friendly manner. The API used in this case was **https://openweathermap.org/api**
-
-### **Conclusion:**
-In conclusion, the Weather App seamlessly combines functionality with an appealing design to provide users with an intuitive and visually immersive experience. By leveraging HTML, CSS, and JavaScript, the application not only delivers accurate and timely weather data but also enhances the overall user experience through a well-designed interface. Whether users seek weather information based on their current location or a specific city, this application showcases the potential of technology to deliver practical and aesthetically pleasing solutions in the realm of web applications.
